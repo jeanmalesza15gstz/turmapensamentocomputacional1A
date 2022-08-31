@@ -1,2 +1,2 @@
-# turmapensamentocomputacional1A
+# turmapensamentocomputacional1 A
 MINHA PASTA
